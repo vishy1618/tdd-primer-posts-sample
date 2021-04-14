@@ -10,6 +10,9 @@
     "@types/node": "^12.20.6",
     "@types/react": "^17.0.3",
     "@types/react-dom": "^17.0.2",
+    "@wojtekmaj/enzyme-adapter-react-17": "^0.4.1",
+    "bootstrap": "^4.6.0",
+    "cross-fetch": "^3.1.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.3",
@@ -39,5 +42,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/enzyme": "^3.10.8",
+    "enzyme": "^3.11.0"
   }
 }
